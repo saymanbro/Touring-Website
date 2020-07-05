@@ -1,0 +1,83 @@
+h1{
+    color: cyan;
+    background-image: linear-gradient(145deg,);
+    text-align: center;
+    box-shadow: #0daaff;
+    border: 1px solid gold;
+    margin: 50px 100px 30px 100px;
+    padding: 20px;
+    background-image: repeating-linear-gradient(145deg,#0c739c,#e158a8);
+    border-radius: 9px;
+    font-size: 50px;
+}
+
+.nav{
+    text-align: right;
+    border: 2px solid ;
+    border-radius: 8px;
+    margin: 10px 10px 20px 200px;
+    background-image: linear-gradient(145deg,#fffffd,#b9b285);
+    font-size: 20px;
+    color: black;
+    padding: 10px;
+    float: left;
+    font-size: 40px;
+}
+img{
+    width: 90%;
+    display: block;
+    margin: auto;
+}
+.style-aside{
+    width: 25%;
+    height: 660px;
+    background-color: black;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 20px;
+    float:right;
+    color: gold;
+    overflow: scroll;
+    margin: 200px 0px 0px 0px;
+}
+h3{
+    text-align: center;
+    color: gold;
+    border: 2px solid white;
+    border-radius: 6px;
+    padding: 10px;
+    font-size: 26px;
+}
+.h3{
+    color: #0f5607;
+    text-align: center;
+    font-size: 30px;
+}
+.toni{
+    width: 60%;
+    height: 1800px;
+    float: left;
+    padding: 20px;
+    margin-top: 100px 0px 0px 0px;
+    background-color: #6a8b62;
+    
+    
+}
+
+p{
+    padding: 10px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.toni2{
+    width: 60%;
+    height: 2500px;
+    float: left;
+    padding: 20px;
+    margin-top: 100px;
+    background-color: #4e5c6b;
+    
+    
+    
+}
